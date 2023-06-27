@@ -53,9 +53,10 @@
     transition: 0.5s;
 }
 nav img{
-    width: 50px;
-    padding-left: 50%;
-    padding-top: 4% ;
+    width: 60px;
+    padding-top: 4%;
+    position: relative;
+    margin-left: 530px;
 }
 .text{
     width: 90%;
